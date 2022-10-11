@@ -1,0 +1,19 @@
+.nav-button *{
+	color: #fff;
+}
+.nav-button{
+	background-color: var(--primary);
+	margin-left: 5px;
+	padding: 10px 7px;
+}
+.nav-button:hover{
+	background-color: var(--primary-hover);
+}
+
+canvas
+{
+   width: 100% !important;
+   max-width: 600px !important;
+   max-height: 600px !important;
+   margin: auto;
+}
