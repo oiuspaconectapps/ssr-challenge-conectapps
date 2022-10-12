@@ -11,4 +11,4 @@ connection.query('DROP DATABASE IF EXISTS test_node_js', (error) => { queryHandl
 
 setTimeout(()=>{
     process.exit();
-},1000);
+},2000);

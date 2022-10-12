@@ -202,4 +202,4 @@ function seeders()
 
 setTimeout(()=>{
     process.exit();
-},2500);
+},5000);
